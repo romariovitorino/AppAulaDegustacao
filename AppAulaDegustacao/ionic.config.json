@@ -1,0 +1,7 @@
+{
+  "name": "AppAulaDegustacao",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
